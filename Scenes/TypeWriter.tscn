@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://b1yn0l5dl0kxr"]
+
+[ext_resource type="Script" path="res://Scenes/manager_letter.gd" id="1_v3dwd"]
+
+[node name="ManagerLetters" type="Node"]
+script = ExtResource("1_v3dwd")
